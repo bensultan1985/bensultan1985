@@ -1,7 +1,7 @@
-👋 Hi, I’m @bensultan1985
-👀 I’m interested in building software tools to help people perform tasks and meet goals.
-🌱 I’m currently learning React-Native, and hope to publish an app in the Apple store by the end of 2021.
-📫 How to reach me: bensultan1985@gmail.com
+- 👋 Hi, I’m Ben.
+- 👀 I’m interested in building software tools to help people perform tasks and meet goals.
+- 🌱 I’m currently learning React-Native, and hope to publish an app in the Apple store by the end of 2021.
+- 📫 How to reach me: bensultan1985@gmail.com
 
 <!---
 bensultan1985/bensultan1985 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
