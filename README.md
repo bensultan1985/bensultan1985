@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben.
-- 👀 I’m interested in building software tools to help people perform tasks and meet goals.
-- 🌱 I’m currently learning React-Native, and hope to publish an app in the Apple store by the end of 2021.
+- 👀 I like building useful, intuitive software tools... and the occasional game.
+- 🌱 I’m currently building my first React-Native app, which I hope to add to the Apple Store in Q1 of 2022.
 - 📫 How to reach me: bensultan1985@gmail.com
 
 <!---
